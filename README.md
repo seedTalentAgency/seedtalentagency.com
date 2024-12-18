@@ -1,1 +1,1 @@
-# seedtalentagency.com
+# SeedTalentAgency
